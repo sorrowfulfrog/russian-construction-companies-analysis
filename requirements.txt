@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+openpyxl
+matplotlib
+folium
+geopandas
+pypdf
+PyMuPDF
+pytesseract
+Pillow
